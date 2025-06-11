@@ -2,7 +2,7 @@
 [![Actions Status](https://github.com/Talishechka/qa-engineer-project-85/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Talishechka/qa-engineer-project-85/actions)
 Codebattle — проект Хекслета с открытым исходным кодом. Текущая версия разрабатывается целиком и полностью силами комьюнити. В проекте за несколько лет поучаствовали десятки разработчиков.
 
-(Codebattle)[https://codebattle.hexlet.io/] — игра, в которой два программиста одновременно выполняют одну задачу на разных языках программирования. Кто выполнил быстрее, тот побеждает.
+[Codebattle](https://codebattle.hexlet.io/) — игра, в которой два программиста одновременно выполняют одну задачу на разных языках программирования. Кто выполнил быстрее, тот побеждает.
 
 Основные возможности проекта:
 
